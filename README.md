@@ -1,4 +1,5 @@
-# HousesKaggleChallenge
+# Houses Kaggle Challenge  
+
 Predicting house prices for the kaggle challenge using various Machine Learning methods, such as:
 
 Decision Tree  
